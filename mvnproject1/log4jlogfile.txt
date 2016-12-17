@@ -1,0 +1,6 @@
+INFO    2016-12-14 23:26:31,208 [main] com.pom.amazon.testutils.Base.Lo4jconfigurationclass  - Log4j appender configuration is successful !!
+INFO    2016-12-14 23:29:22,782 [main] com.pom.amazon.testutils.Base.Lo4jconfigurationclass  - Log4j appender configuration is successful !!
+INFO    2016-12-14 23:34:53,934 [main] com.pom.amazon.testutils.Base.Lo4jconfigurationclass  - Log4j appender configuration is successful !!
+INFO    2016-12-14 23:51:38,391 [main] com.pom.amazon.testutils.Base.Lo4jconfigurationclass  - Log4j appender configuration is successful !!
+INFO    2016-12-17 09:58:45,700 [main] com.mvntraining.sample.BaseTestClass  - The Amazon title is verified
+INFO    2016-12-17 09:58:46,220 [main] com.mvntraining.sample.BaseTestClass  - Amazon URL Testes case Executed properly
